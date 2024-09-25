@@ -1,8 +1,5 @@
-# Healthcare_Monitoring_System
-FSD-Project-Healthcare_Monitoring_System(Appointment Scheduling)
+# Serviecs_Booking_System
+FSD-Project
 Team Members : {
-    Deepanshu_Sharma,
-    Snehanshu,
-    Vinod,
-    Jai
+    Abhinav Mishra, Mehul Bhutani, Sukriti Das, Gautam Rajpurohit
 }
